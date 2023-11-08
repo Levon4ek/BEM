@@ -27,7 +27,7 @@ legs__right_scar_true <br>
 
 header.header>nav.header__nav>ul.header__list>(li.header__item>a.header__link>img.header__img)+(li.header__item>a.header__link)*5+(li.header__item>a.header__number)
 
-## Form
+## Repair
 ![alt text](./img/2.png)<br>
 
 div.repair>(div.repair__wrapper>(h3.repair__title+p.repair__text+form.repair__form>button.repair__button))+img.repair__img
